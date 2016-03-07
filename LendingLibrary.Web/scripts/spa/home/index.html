@@ -1,0 +1,48 @@
+﻿<hr />
+<div class="row">
+    <div class="panel panel-primary" id="panelLibraryTitles">
+        <div class="panel-heading">
+            <h3>Lending Library</h3>
+
+            <div ng-if="loadingTitles">
+                <br />
+                <span class="glyphicon glyphicon-thumbs-up">Lending Library</span>
+            </div>
+        </div>
+
+        <div class="panel-body">
+            <div ng-if="loadingTitles">
+                <div class="col-xs-4">
+                    <i class="fa fa-refresh fa-5x fa-spin"></i> <label class="label label-primary">Loading library...</label>
+                </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-6 title" ng-repeat="title in selectedTitles">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <strong>{{title.Name}}</strong>
+                    </div>
+                    <div class="panel-body">
+                        <div class="media">
+                            <a class="pull-left" href="#">
+                                <a class="fancybox pull-left" rel="gallery1" ng-href="{{title.ImageURL}}"
+                                   title="{{title.Subtitle | limitTo:150}}">
+                                    <img class="media-object" height="160" ng-src="{{title.ImageURL}}" alt="" />
+                                </a>
+                            </a>
+
+                            <div class="media-body">
+                                <div class="title-body">{{title.Name}}</div>
+                                <div>{{title.Subtitle}}</div>
+                                <div><small>{{title.Author}}</small></div>
+                                <div><small>{{title.Medium}}</small></div>
+                                <div><small>{{title.Publisher}}</small></div>
+                                <div><small>{{title.Year}}</small></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

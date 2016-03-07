@@ -1,0 +1,5 @@
+C:\code\PracticeWebApp1\LendingLibrary.Entities\bin\Debug\LendingLibrary.Entities.dll
+C:\code\PracticeWebApp1\LendingLibrary.Entities\bin\Debug\LendingLibrary.Entities.pdb
+C:\code\PracticeWebApp1\LendingLibrary.Entities\obj\Debug\LendingLibrary.Entities.dll
+C:\code\PracticeWebApp1\LendingLibrary.Entities\obj\Debug\LendingLibrary.Entities.pdb
+C:\code\PracticeWebApp1\LendingLibrary.Entities\obj\Debug\LendingLibrary.Entities.csprojResolveAssemblyReference.cache

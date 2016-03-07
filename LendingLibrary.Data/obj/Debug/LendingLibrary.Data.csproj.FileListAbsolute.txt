@@ -1,0 +1,14 @@
+C:\code\PracticeWebApp1\LendingLibrary.Data\bin\Debug\LendingLibrary.Data.dll.config
+C:\code\PracticeWebApp1\LendingLibrary.Data\bin\Debug\LendingLibrary.Data.dll
+C:\code\PracticeWebApp1\LendingLibrary.Data\bin\Debug\LendingLibrary.Data.pdb
+C:\code\PracticeWebApp1\LendingLibrary.Data\bin\Debug\EntityFramework.dll
+C:\code\PracticeWebApp1\LendingLibrary.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\code\PracticeWebApp1\LendingLibrary.Data\bin\Debug\LendingLibrary.Entities.dll
+C:\code\PracticeWebApp1\LendingLibrary.Data\bin\Debug\LendingLibrary.Entities.pdb
+C:\code\PracticeWebApp1\LendingLibrary.Data\bin\Debug\EntityFramework.xml
+C:\code\PracticeWebApp1\LendingLibrary.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\code\PracticeWebApp1\LendingLibrary.Data\obj\Debug\LendingLibrary.Data.csprojResolveAssemblyReference.cache
+C:\code\PracticeWebApp1\LendingLibrary.Data\obj\Debug\LendingLibrary.Data.Migrations.initial_migration.resources
+C:\code\PracticeWebApp1\LendingLibrary.Data\obj\Debug\LendingLibrary.Data.csproj.GenerateResource.Cache
+C:\code\PracticeWebApp1\LendingLibrary.Data\obj\Debug\LendingLibrary.Data.dll
+C:\code\PracticeWebApp1\LendingLibrary.Data\obj\Debug\LendingLibrary.Data.pdb
