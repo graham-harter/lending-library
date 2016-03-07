@@ -5,6 +5,13 @@
 *.dll
 *.msi
 
+# VS administrative files #
+###########################
+*.suo
+*.user
+bin
+obj
+
 # Packages #
 ############
 *.7z
